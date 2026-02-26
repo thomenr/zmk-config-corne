@@ -6,7 +6,7 @@
 
 #include "corne.dtsi"
 
-&kscan0 {qqqq
+&kscan0 {
     col-gpios
         = <&pro_micro 16 GPIO_ACTIVE_HIGH>
         , <&pro_micro 20 GPIO_ACTIVE_HIGH>
